@@ -1,1 +1,1 @@
-# Gist-MD
+# My markdown collection snippets
