@@ -64,5 +64,5 @@ $ docker-compose exec [service] [command] # Exécute une commande au sein d'un s
 |10|ENTRYPOINT|Exécuter une commande au démarrage du conteneur|
 
 ## Outils
-- [dockly](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - 
-- [dockly](https://github.com/lirantal/dockly) - Terminalpour la gestion des conteneurs et des services des dockers
+- [VSC Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Docker pour Visual Studio Code
+- [dockly](https://github.com/lirantal/dockly) - Terminal pour la gestion des conteneurs et des services des dockers
